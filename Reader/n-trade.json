@@ -1,0 +1,17 @@
+[
+  {
+    "fruit": "Melon",
+    "number": 9876,
+    "modeOfTransport": "Underground"
+  },
+  {
+    "fruit": "Pomegranate",
+    "number": 324,
+    "modeOfTransport": "Pogo stick"
+  },
+  {
+    "fruit": "Tangerine",
+    "number": 9827,
+    "modeOfTransport": "Skateboard"
+  }
+]
